@@ -22,3 +22,12 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Node / Next.js additions
+/fall-insurance-frontend/node_modules/
+/fall-insurance-frontend/.next/
+/fall-insurance-frontend/out/
+/fall-insurance-frontend/build/
+.DS_Store
+*.pem
+
