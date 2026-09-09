@@ -9,6 +9,13 @@ Enterprise insurance back-office platform with AI-driven workflows and Scrum gov
 ## 🚀 Overview
 **Fall-Insurance** is a robust enterprise back-office solution designed for the insurance sector. It manages policy lifecycles, automates claim and document processing using integrated AI workflows, and ensures rigorous agile tracking through Scrum governance.
 
+---
+
+## 📚 Documentation
+* [Getting Started Guide](docs/Getting_Started.md) — Central technical hub, onboarding, and index for platform setup.
+
+---
+
 ## 🔐 Authentication & Security Architecture
 The platform implements a modern zero-trust security perimeter using **Keycloak** as the centralized OIDC provider integrated seamlessly with a **Spring Boot API Gateway** via OAuth2 Resource Server.
 
@@ -30,3 +37,4 @@ The platform implements a modern zero-trust security perimeter using **Keycloak*
 - **Database**: PostgreSQL
 - **Architecture**: Microservices, Event-Driven, Docker Compose
 - **Governance & Process**: Scrum-aligned enterprise workflows
+
