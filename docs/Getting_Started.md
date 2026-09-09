@@ -1,4 +1,4 @@
-# Getting Started
+# 📚 Getting Started
 
 * [← Back to Main Repository](../../..)
 
@@ -6,7 +6,7 @@ Welcome to Fall-Insurance! This central documentation hub provides the essential
 
 ---
 
-## Documentation Index
+## 📖 Documentation Index
 
 * [Keycloak Getting Started Guide](Keycloak_getting_started.md) — Step-by-step instructions for initializing the security realm, registering clients, and provisioning users within Keycloak.
 
