@@ -1,5 +1,7 @@
 # Keycloak Getting Started Guide
 
+* [← Back to Main Guide](../..)
+
 This technical guide covers the initial configuration steps for setting up Keycloak as the Identity Provider (IdP) for the enterprise platform, including realm initialization, client registration, and user provisioning.
 
 ---
