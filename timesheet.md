@@ -1,7 +1,6 @@
 # ⏱️ TIMESHEET SUMMARY
 
-* [← Back to Main Repository](../README.md)
-<a href="#" onclick="history.back(); return false;">⬅️ Torna indietro</a>
+* [← Back to Main Repository](./)
 
 | Date | Main Focus |
 | :--- | :--- |
