@@ -11,6 +11,11 @@ Enterprise insurance back-office platform with AI-driven workflows and Scrum gov
 
 ---
 
+## ⏱️ Timesheet & Governance
+* [Timesheet Index](timesheet/timesheet.md) — Daily activity logs and professional hours tracking.
+
+---
+
 ## 📚 Documentation
 * [Getting Started Guide](docs/Getting_Started.md) — Central technical hub, onboarding, and index for platform setup.
 
