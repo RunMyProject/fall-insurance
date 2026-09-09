@@ -1,7 +1,6 @@
 # ⏱️ TIMESHEET SUMMARY
 
-* [← Back to Main Repository](./)
-[Torna indietro](../)
+* [← Back to Main Repository](../..)
 
 | Date | Main Focus |
 | :--- | :--- |
