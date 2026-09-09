@@ -1,7 +1,7 @@
 # ⏱️ TIMESHEET SUMMARY
 
 * [← Back to Main Repository](./)
-<div style="page-break-after: always;">aaa </div>
+[Torna indietro](../)
 
 | Date | Main Focus |
 | :--- | :--- |
