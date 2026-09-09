@@ -1,4 +1,4 @@
-# Keycloak Getting Started Guide
+# 📚 Keycloak Getting Started Guide
 
 * [← Back to Main Guide](../../../tree/main/docs/Getting_Started.md)
 
