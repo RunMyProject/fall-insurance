@@ -9,7 +9,9 @@ Welcome to Fall-Insurance! This central documentation hub provides the essential
 ## 📖 Documentation Index
 
 * [Keycloak Getting Started Guide](Keycloak_getting_started.md) — Step-by-step instructions for initializing the security realm, registering clients, and provisioning users within Keycloak.
+* [Development Workflow Guide](Getting_Started_Workflow.md) — Step-by-step instructions for launching backend services with automation scripts, running the frontend development server, and tearing down the environment.
 
 ---
 
 *More comprehensive guides covering AI workflows, microservices deployment, and Scrum governance will be added here as the platform expands.*
+
